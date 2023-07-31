@@ -1,0 +1,7 @@
+<resources>
+    <string name="lekomat">Lekomat</string>
+    <string name="default_time">00:00</string>
+    <string name="set_alarm_button_text">Ustaw Godzine Zażycia Leku</string>
+    <string name="delete_button_text">Usuń Lek</string>
+
+</resources>
